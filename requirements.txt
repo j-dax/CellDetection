@@ -6,4 +6,4 @@ imgaug
 Cython>=0.29.16
 pycocotools>=2.0
 Keras>=2.3.1
-tensorflow==1.13.2
+tensorflow==1.15.2
