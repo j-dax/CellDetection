@@ -1,0 +1,30 @@
+.container img {
+    width: 100%;
+}
+
+.container {
+    background-color: #CCC;
+    margin: 0 auto;
+}
+
+button {
+    margin-right: 16px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    text-decoration-style: none;
+}
+
+p {
+    text-align: center;
+}
+
+.original {
+    position: absolute;
+    top: 400px;
+}

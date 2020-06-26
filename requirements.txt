@@ -1,0 +1,9 @@
+flask>=1.1.1
+Flask-Cors
+bokeh>=2.0.2
+ipython>=7.13.0
+imgaug
+Cython>=0.29.16
+pycocotools>=2.0
+Keras>=2.3.1
+tensorflow==1.13.2
